@@ -49,6 +49,10 @@ public class AutoPlantCropsClient implements ClientModInitializer {
         commandList.add(newOption("autoplantcrops", "true"));
         commandList.add(newOption("cancelBreakUnlessAged", "false"));
         commandList.add(newOption("autoReplant", "true"));
+        commandList.add(newOption("replantCropBrokenByWater", "true"));
+        commandList.add(newOption("rangeCheck", "true"));
+
+        commandList.add(newOption("maxPlantQueueHoldTime", "10000"));
         commandList.add(newOption("autoplantcropsDelay", "100"));
 
 

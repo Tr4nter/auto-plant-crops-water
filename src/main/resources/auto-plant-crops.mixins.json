@@ -6,7 +6,8 @@
     "ClientPlayerInteractionMixin2",
     "CocoaBlockMixin",
     "CropBlockMixin",
-    "NetherWartBlockMixin"
+    "NetherWartBlockMixin",
+    "WaterBreakBlockEventImp"
   ],
   "injectors": {
     "defaultRequire": 1

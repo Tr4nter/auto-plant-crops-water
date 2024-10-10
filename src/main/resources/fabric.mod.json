@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "auto-plant-crops",
+	"id": "auto-plant-crops-water",
 	"version": "${version}",
 	"name": "Auto Plant Crops",
 	"description": "Auto Plant Crops upon being broken",

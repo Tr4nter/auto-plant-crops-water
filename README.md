@@ -8,3 +8,5 @@ This mod requires [Fabric](https://fabricmc.net/)
 
 
 ## Contributions/suggestions/issues are all welcomed and are highly appreciated :)
+
+Specialized version for replanting crops destroyed by water
